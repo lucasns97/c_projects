@@ -1,9 +1,9 @@
 # projects
 Gnuplot assistant for C++
 
-# author: Lucas Nunes Sequeira, Brasil
+## author: Lucas Nunes Sequeira, Brasil
 
-# date: October 15, 2018
+### date: October 15, 2018
 
 This is a open source assitent file for C++ gnuplot graphics.
 
