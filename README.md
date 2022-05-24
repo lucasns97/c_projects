@@ -1,5 +1,6 @@
-# projects
-Gnuplot assistant for C++
+# **C** Projects
+
+# 1. Gnuplot assistant for C++
 
 ## author: Lucas Nunes Sequeira, Brasil
 
